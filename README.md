@@ -1,40 +1,33 @@
-# Hindi AI Response Quality Evaluation Portfolio
-## About This Project
-Welcome to my portfolio of Hindi AI response quality evaluation.
-I am a management postgraduate specializing in Human Resources and Marketing, with five years of freelance experience.
+# AI Response Helpfulness Evaluation – Sample 05
 
-I am developing practical skills in AI response evaluation, Hindi content review and search quality assessment.
+## 1. Test Question
+How can a person improve their daily productivity?
 
-## Evaluation Criteria
+## 2. AI-Generated Response
+A person can improve daily productivity by setting clear goals, prioritizing important tasks, managing time effectively, avoiding distractions and taking regular breaks.
 
-I evaluate AI-generated responses using the following criteria:
+## 3. Helpfulness Evaluation
 
-1. Accuracy – Is the information factually correct?
-2. Relevance – Does it answer the user's question?
-3. Clarity – Is the response easy to understand?
-4. Hindi Quality – Is the Hindi natural and grammatically correct?
-5. Helpfulness – Does it provide useful information?
-6. Safety – Is the response responsible and safe?
+- Helpfulness: 5/5
+- Relevance: 5/5
+- Practical Value: 5/5
+- Clarity: 5/5
+- Actionability: 5/5
 
-## Portfolio Contents
+## 4. Helpfulness Review
 
-- Hindi AI response evaluation examples
-- AI response quality checklists
-- Hindi language review samples
-- Search quality assessment examples
-- Practical AI evaluation notes
+- The response provides practical suggestions.
+- The advice is relevant to the question.
+- The steps are easy to understand and follow.
+- The response encourages better time management.
+- The information is useful in everyday life.
 
-## Professional Background
+## 5. Suggested Improvement
 
-- Management Graduate
-- Specialization: Human Resources and Marketing
-- Five years of freelance experience
-- Interest in AI evaluation and Hindi language quality review
+Including a simple daily schedule example could make the response more useful.
 
-## Objective
+## 6. Final Assessment
 
-My objective is to contribute to improving AI response quality, Hindi language accuracy and user experience.
+The AI response provides useful, practical and actionable guidance for improving daily productivity.
 
----
-
-Thank you for visiting my portfolio!``
+Overall Result: Excellent.
