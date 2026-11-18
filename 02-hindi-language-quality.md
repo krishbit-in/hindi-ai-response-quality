@@ -1,63 +1,52 @@
 
-# Hindi Language Quality Evaluation – Sample 01
+# Hindi Language Quality Evaluation – Sample 02
 
 ## 1. Test Question
 
-भारत की राजधानी क्या है?
+भारत में शिक्षा का क्या महत्व है?
 
 ## 2. AI-Generated Response
 
-भारत की राजधानी नई दिल्ली है। यह भारत का एक प्रमुख प्रशासनिक और राजनीतिक केंद्र है।
+शिक्षा मनुष्य के जीवन में बहुत महत्वपूर्ण होता है। यह लोगों को ज्ञान देते हैं और अच्छा निर्णय लेने में मदद करती है। शिक्षा से व्यक्ति अपने भविष्य को बेहतर बना सकते है।
 
-## 3. Evaluation
+## 3. Language Quality Evaluation
 
-- Accuracy: 5/5
-- Relevance: 5/5
-- Clarity: 5/5
-- Hindi Grammar: 5/5
-- Naturalness: 5/5
-- Vocabulary: 5/5
+- Grammar: 2/5
 - Spelling: 5/5
-- Readability: 5/5
-- Helpfulness: 5/5
+- Sentence Structure: 3/5
+- Readability: 3/5
+- Natural Hindi: 2/5
 
-## 4. Language Quality Review
+## 4. Errors Identified
 
-- The Hindi language is natural and fluent.
-- Grammar and sentence structure are correct.
-- Vocabulary is appropriate for the question.
-- The response is easy to understand.
-- No spelling errors were identified.
-- The tone is clear and informative.
+The AI-generated response contains several Hindi grammar errors.
 
-## 5. Suggested Improvement
+1. "महत्वपूर्ण होता है" should be "महत्वपूर्ण होती है".
+2. "ज्ञान देते हैं" should be "ज्ञान देती है".
+3. "मदद करती है" should be "मदद करता है" when referring to शिक्षा.
+4. "बना सकते है" should be "बना सकता है" when referring to व्यक्ति.
 
-The response is already clear, accurate, and grammatically correct.
+## 5. Corrected Hindi Response
 
-No major language improvement is required.
+शिक्षा मनुष्य के जीवन में बहुत महत्वपूर्ण होती है। यह लोगों को ज्ञान देती है और अच्छे निर्णय लेने में मदद करती है। शिक्षा से व्यक्ति अपना भविष्य बेहतर बना सकता है।
 
 ## 6. Final Assessment
 
-The AI response demonstrates excellent Hindi language quality.
-
-It uses appropriate vocabulary, correct grammar, natural sentence structure, and clear communication.
-
-Overall Result: Excellent.
+- Language Quality: Needs Improvement
+- Grammar Accuracy: Incorrect
+- Spelling: Correct
+- Correction Required: Yes
 
 ## 7. Evaluator Note
 
-Hindi AI responses should be accurate, grammatically correct, natural, and easy to understand.
-
-Evaluators should assess language quality separately from factual accuracy.
+AI-generated Hindi responses should be checked for correct grammar, sentence structure, natural expression and readability.
 
 ## 8. Evaluation Principle
 
-A high-quality Hindi response should maintain correct grammar, natural expression, appropriate vocabulary, and clear communication.
+A high-quality Hindi response should be grammatically correct, natural, clear and easy to understand.
 
-## 9. Final Language Assessment
+## 9. Overall Conclusion
 
-Language Quality Rating: Excellent (5/5)
+This sample demonstrates the ability to identify Hindi grammar errors and improve AI-generated language quality.
 
-Correction Required: No
-
-Evaluation Status: Passed
+Overall Result: Improvement Required.
