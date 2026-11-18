@@ -1,18 +1,18 @@
 
-# AI Accuracy Evaluation – Sample 01
+# Hindi AI Accuracy Evaluation – Sample 01
 
 ## 1. Test Question
 
-What is the capital of India?
+भारत की राजधानी क्या है?
 
 ## 2. AI-Generated Response
 
-The capital of India is Mumbai.
+भारत की राजधानी मुंबई है। मुंबई महाराष्ट्र राज्य का प्रमुख शहर और भारत का एक महत्वपूर्ण आर्थिक केंद्र है।
 
-## 3. Evaluation
+## 3. Accuracy Evaluation
 
-- Accuracy: 1/5
-- Relevance: 5/5
+- Factual Accuracy: 1/5
+- Relevance: 4/5
 - Clarity: 5/5
 - Language Quality: 5/5
 - Helpfulness: 1/5
@@ -20,30 +20,45 @@ The capital of India is Mumbai.
 
 ## 4. Error Identified
 
-The AI provided incorrect factual information. Mumbai is not the capital of India.
+The AI-generated response contains a major factual error.
 
-The response is clearly written but contains a major factual error.
+Mumbai is not the capital of India. It is the capital of Maharashtra.
+
+The response is grammatically correct but factually incorrect.
 
 ## 5. Correct Answer
 
-The capital of India is New Delhi.
+भारत की राजधानी नई दिल्ली है।
+
+मुंबई महाराष्ट्र की राजधानी है।
 
 ## 6. Final Assessment
 
-- Accuracy Rating: Incorrect
-- Error Severity: Major factual error
+- Accuracy: Incorrect
+- Error Severity: Major Factual Error
+- Correction Required: Yes
 - Overall Assessment: Needs Improvement
 
-The response is relevant, clear, and grammatically correct, but fails the accuracy requirement.
+The response is clear and well-written but fails the factual accuracy requirement.
 
 ## 7. Evaluator Note
 
-Accuracy is essential for reliable AI responses. Evaluators should verify important factual information before approving an AI-generated response.
+AI evaluators must verify important factual information before approving responses.
+
+A response should not receive a high accuracy score simply because it is grammatically correct or easy to understand.
 
 ## 8. Evaluation Principle
 
-A response must be factually correct, not merely fluent, relevant, and well-written.
+Factual accuracy is essential for trustworthy AI-generated responses.
+
+Evaluators should identify incorrect information, verify facts, and suggest accurate corrections.
 
 ## 9. Corrected AI Response
 
-The capital of India is New Delhi, which is the seat of the Government of India.
+भारत की राजधानी नई दिल्ली है। मुंबई महाराष्ट्र की राजधानी है और भारत का एक प्रमुख आर्थिक केंद्र है.
+
+## 10. Overall Conclusion
+
+This sample demonstrates the importance of factual verification, error identification, and quality improvement in AI response evaluation.
+
+Overall Result: Failed – Major Factual Error Identified.
